@@ -1,4 +1,4 @@
-## Secure-Data-Hiding-in-Image-Using-Steganography
+# Secure-Data-Hiding-in-Image-Using-Steganography
 
 # Project Overview
 This project demonstrates a method for securely hiding secret messages within digital images using a substitution-based steganography technique. By subtly altering specific pixel values, the project embeds confidential data into an image while preserving its overall appearance. This approach ensures that the hidden message remains undetectable to unauthorized viewers.
@@ -26,6 +26,8 @@ Robustness Improvements: Refinements to better resist steganalysis and detection
 
 # Author
 Anshika Dwivedi
+
 BTech CSE (AI & ML)
+
 Pranveer Singh Institute of Technology
 
